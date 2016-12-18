@@ -1,0 +1,48 @@
+body {
+     background-color: #f4f4f4;
+}
+p {
+
+    margin-left: 15px;
+
+    width: 600px;
+    padding: 20px;
+    color: rgba(31, 31, 31, 0.8);
+    line-height: 20px;
+    text-align: left;
+    font-size: 14px;
+    font-family: "Arial";
+    color: rgb(31, 31, 31);
+
+ }
+h1{
+  margin-left: 100px;
+  margin-top: 50px;
+}
+
+ h3 {
+
+   line-height: 20px;
+   text-align: left;
+   font-size: 21px;
+   font-family: "Myriad Pro";
+   font-weight: bold;
+
+   }
+
+   li{
+     list-style: none;
+     line-height: 33px;
+    font-family: cursive;
+   }
+   div {
+
+   	   border-bottom: 1px solid #eeeeee;
+   	   padding-bottom: 10px;
+
+   }
+   a {
+    margin-left: 101px;
+    font-style:italic;
+
+}
